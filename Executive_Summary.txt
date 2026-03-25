@@ -1,0 +1,11 @@
+## 📊 Executive Summary
+
+This dashboard analyzes supply chain performance with a focus on identifying delivery bottlenecks and operational inefficiencies using SQL and Power BI. The analysis highlights that over 54.8% of orders are delivered late, indicating significant delays in the delivery process.
+
+Regional analysis shows that certain areas such as Central Asia, South USA, and Canada experience higher average delays, making them critical bottleneck zones. Shipping performance comparison reveals that actual delivery times frequently exceed scheduled timelines, pointing to gaps in planning and execution.
+
+Shipping mode analysis indicates that lower-priority modes such as Standard Class contribute more to delays, while First Class performs relatively better. Additionally, category-level insights show that specific product categories (e.g., sports-related items) experience higher delay percentages, suggesting operational strain in handling these products.
+
+The root cause analysis further identifies variations in delay across states and shipping modes, helping pinpoint inefficiencies at a granular level. Despite stable sales and order volumes, the high late delivery rate signals a need for process optimization.
+
+Overall, this project provides actionable insights to improve delivery efficiency, optimize shipping strategies, and reduce delays, enabling better supply chain performance and customer satisfaction.
